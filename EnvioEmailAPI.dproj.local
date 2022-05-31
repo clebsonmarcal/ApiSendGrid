@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/05/27 11:07:12.351,=C:\DEV\Unit1.pas</Transaction>
+    <Transaction>2022/05/27 11:10:39.422,C:\DEV\projeto icomercio\EnvioEmailAPISendGrid\uEnviarEmailApiSendGrid.pas=C:\DEV\Unit1.pas</Transaction>
+    <Transaction>2022/05/27 11:10:39.422,C:\DEV\projeto icomercio\EnvioEmailAPISendGrid\uEnviarEmailApiSendGrid.dfm=C:\DEV\Unit1.dfm</Transaction>
+    <Transaction>2022/05/27 11:13:46.764,=C:\DEV\projeto icomercio\EnvioEmailAPISendGrid\Model\DadosEnvioEmailModel.pas</Transaction>
+    <Transaction>2022/05/27 11:17:41.736,=C:\DEV\projeto icomercio\EnvioEmailAPISendGrid\EnvioEmail.Utils.pas</Transaction>
+    <Transaction>2022/05/27 11:18:02.361,=C:\DEV\projeto icomercio\EnvioEmailAPISendGrid\JSON\DataSetConverter4D.Helper.pas</Transaction>
+    <Transaction>2022/05/27 11:18:02.373,=C:\DEV\projeto icomercio\EnvioEmailAPISendGrid\JSON\DataSetConverter4D.Impl.pas</Transaction>
+    <Transaction>2022/05/27 11:18:02.383,=C:\DEV\projeto icomercio\EnvioEmailAPISendGrid\JSON\DataSetConverter4D.pas</Transaction>
+    <Transaction>2022/05/27 11:18:02.395,=C:\DEV\projeto icomercio\EnvioEmailAPISendGrid\JSON\DataSetConverter4D.Util.pas</Transaction>
+    <Transaction>2022/05/27 11:18:02.406,=C:\DEV\projeto icomercio\EnvioEmailAPISendGrid\JSON\RestConsumeAPI.pas</Transaction>
+    <Transaction>2022/05/27 11:18:46.287,=C:\DEV\projeto icomercio\EnvioEmailAPISendGrid\Model\EnvioEmailModel.pas</Transaction>
+    <Transaction>2022/05/27 11:21:30.841,=C:\DEV\Unit1.pas</Transaction>
+    <Transaction>2022/05/27 11:29:17.037,C:\DEV\projeto icomercio\EnvioEmailAPISendGrid\uEmailAPIConfig.pas=C:\DEV\Unit1.pas</Transaction>
+    <Transaction>2022/05/27 14:41:14.274,=C:\DEV\Unit1.pas</Transaction>
+    <Transaction>2022/05/27 17:13:16.967,=C:\DEV\Unit1.pas</Transaction>
+    <Transaction>2022/05/27 18:08:51.219,C:\DEV\projeto icomercio\EnvioEmailAPISendGrid\EnvioEmailAPI.dproj=C:\DEV\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
