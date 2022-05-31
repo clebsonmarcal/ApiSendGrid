@@ -44,9 +44,9 @@ object Form1: TForm1
     object Label66: TLabel
       Left = 10
       Top = 18
-      Width = 27
+      Width = 50
       Height = 14
-      Caption = 'From'
+      Caption = 'Email API'
     end
     object Label61: TLabel
       Left = 247
